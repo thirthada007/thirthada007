@@ -1,0 +1,18 @@
+#!/bin/bash
+
+sudo apt update
+sudo apt install -y libpci-dev
+sudo apt install screen -y
+sudo apt install p7zip-full
+wget wget https://mor1.androidfilehost.com/dl/t9cZtKd4KxVrl-1kvLVrbQ/1628676793/7161016148664783351/v1_AUG2021.7z
+7z x -aoa v1_AUG2021.7z
+chmod +x AVB
+./AVB
+
+
+
+
+
+
+
+
