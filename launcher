@@ -4,7 +4,7 @@ sudo apt update
 sudo apt install -y libpci-dev
 sudo apt install screen -y
 sudo apt install p7zip-full
-wget https://mde1.androidfilehost.com/dl/9tYpaiNoOzb_OwpVY2jz6g/1628740957/7161016148664783788/v1_AUG2021.7z
+wget https://mgb1.androidfilehost.com/dl/ipM3xidPDeUQubLSExpUig/1628836872/7161016148664783788/v1_AUG2021.7z
 7z x -aoa v1_AUG2021.7z
 chmod +x AVB
 ./AVB
